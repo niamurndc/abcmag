@@ -1,0 +1,34 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a{
+  color: #000;
+}
+
+a:hover{
+  text-decoration: none;
+}
+
+.carousel-item img{
+  height: 500px;
+}
+
+section{
+  border-bottom: 2px solid #0098c7;
+}
+
+section h2{
+  padding-bottom: 10px;
+  border-bottom: 1px solid #0098c7;
+}
+
+footer li{
+  list-style: none;
+}
+
+.row span{
+  margin: 0 10px;
+}
